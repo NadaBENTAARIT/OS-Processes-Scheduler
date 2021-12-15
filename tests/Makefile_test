@@ -1,0 +1,2 @@
+clean_up: main_executable
+	rm ${SCHEDULING_POLICIES_BUILD_DIR}/*.o && rm ${ROOT_BUILD_DIR}/*.o
